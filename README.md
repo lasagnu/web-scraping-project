@@ -1,2 +1,7 @@
-# web-scraping-project
-basic web crawler for endless data mining 
+# default-readme
+
+Default readme, remember to fill me up!
+
+# author
+
+Lasagnu <marej.dev@gmail.com>
